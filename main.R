@@ -183,3 +183,5 @@ painel_rdd <- petjua_postos %>%
     data_coleta_min, data_coleta_max
   ) %>%
   arrange(cnpj_chave, semana)
+
+
