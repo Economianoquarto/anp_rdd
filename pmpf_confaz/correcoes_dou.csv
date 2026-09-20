@@ -1,0 +1,18 @@
+vigencia_afetada,ato_corretor,ato_corrigido,tipo,item,UF,combustivel,valor_anterior,valor_corrigido,fonte_dou
+2026-02-01,3,2,alteracao,27,TO,QAV,"6,4500","6,4500",DOU 26/01/2026 ed.17 s.1 p.34
+2026-02-01,3,2,alteracao,27,TO,AEHC,"4,8200","*5,1100",DOU 26/01/2026 ed.17 s.1 p.34
+2026-03-01,,5,retificacao,16,PE,AEHC,"4,9200","*5,1800",DOU 05/03/2026 (retificacao do Ato 5)
+2026-04-01,8,7,alteracao,25,SE,QAV,"4,5880","*4,8520",DOU 26/03/2026
+2026-04-01,8,7,alteracao,25,SE,AEHC,"4,8740","*4,9230",DOU 26/03/2026
+2026-04-01,8,7,alteracao,25,SE,GNV,"4,6080","**4,5980",DOU 26/03/2026
+2026-04-16,10,9,alteracao,19,RJ,QAV,"2,4456","2,4456",DOU 13/04/2026
+2026-04-16,10,9,alteracao,19,RJ,AEHC,"5,0800","*5,1500",DOU 13/04/2026
+2026-04-16,10,9,alteracao,19,RJ,GNV,"4,2100","*4,2200",DOU 13/04/2026
+2026-04-16,11,9,alteracao,25,SE,QAV,"4,8520","*7,1200",DOU 14/04/2026
+2026-04-16,11,9,alteracao,25,SE,AEHC,"4,9230","*5,1140",DOU 14/04/2026
+2026-04-16,11,9,alteracao,25,SE,GNV,"4,5980","**4,5810",DOU 14/04/2026
+2026-06-01,15,14,alteracao,9,GO,AEHC,"4,7157","**4,3404",DOU 27/05/2026
+2026-06-01,16,14,alteracao,3,AM,AEHC,"5,2924","**5,1450",DOU 10/06/2026
+2026-06-01,16,14,alteracao,3,AM,GNV,"3,1286","*3,2890",DOU 10/06/2026
+2026-06-01,16,14,alteracao,3,AM,GNI,"1,8473","**1,8340",DOU 10/06/2026
+2026-08-01,21,20,alteracao,26,SP,AEHC,"3,8500","**3,7700",DOU 27/07/2026
